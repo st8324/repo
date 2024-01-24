@@ -1,6 +1,37 @@
 {
-	"num" : 5,
-	"title" : "게시글입니다.",
-	"id" : "admin",
-	"view" : 1
+	"students" : [
+		{
+			"grade" : 1,
+			"class" : 1,
+			"num" : 1,
+			"name" : "홍길동"
+		},
+		{
+			"grade" : 1,
+			"class" : 1,
+			"num" : 2,
+			"name" : "고길동"
+		}
+		,
+		{
+			"grade" : 1,
+			"class" : 1,
+			"num" : 3,
+			"name" : "둘리"
+		}
+		,
+		{
+			"grade" : 1,
+			"class" : 1,
+			"num" : 4,
+			"name" : "손오공"
+		}
+		,
+		{
+			"grade" : 1,
+			"class" : 1,
+			"num" : 5,
+			"name" : "나둘리"
+		}
+	]
 }
