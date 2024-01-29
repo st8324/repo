@@ -1,37 +1,67 @@
 {
-	"students" : [
+	"students": [
 		{
-			"grade" : 1,
-			"class" : 1,
-			"num" : 1,
-			"name" : "홍길동"
+			"grade": 1,
+			"class": 1,
+			"num": 1,
+			"name": "홍길동"
 		},
 		{
-			"grade" : 1,
-			"class" : 1,
-			"num" : 2,
-			"name" : "고길동"
-		}
-		,
+			"grade": 1,
+			"class": 1,
+			"num": 2,
+			"name": "고길동"
+		},
 		{
-			"grade" : 1,
-			"class" : 1,
-			"num" : 3,
-			"name" : "둘리"
-		}
-		,
+			"grade": 1,
+			"class": 1,
+			"num": 3,
+			"name": "둘리"
+		},
 		{
-			"grade" : 1,
-			"class" : 1,
-			"num" : 4,
-			"name" : "손오공"
-		}
-		,
+			"grade": 1,
+			"class": 1,
+			"num": 4,
+			"name": "손오공"
+		},
 		{
-			"grade" : 1,
-			"class" : 1,
+			"grade": 1,
+			"class": 1,
+			"num": 5,
+			"name": "나둘리"
+		}
+	], 
+	"board" : [
+		{
 			"num" : 5,
-			"name" : "나둘리"
+			"title" : "게시글입니다. ",
+			"content" : "게시글입니다.\n 연습용이에요.",
+			"writer" : "홍길동",
+			"view" : 10
+		},{
+			"num" : 4,
+			"title" : "게시글입니다. ",
+			"content" : "잘 부탁드려요",
+			"writer" : "임꺽정",
+			"view" : 21
+		},{
+			"num" : 3,
+			"title" : "테스트 ",
+			"content" : "게시글테스트 중",
+			"writer" : "관리자",
+			"view" : 33
+		},{
+			"num" : 2,
+			"title" : "가입인사. ",
+			"content" : "잘부탁드려요",
+			"writer" : "고길동",
+			"view" : 50
+		},{
+			"num" : 1,
+			"title" : "공지사항 ",
+			"content" : "공지사항. 게시글을 작성할 수 있습니다.",
+			"writer" : "관리자",
+			"view" : 100
 		}
 	]
 }
